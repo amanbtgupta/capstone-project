@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Run your setup tasks
-bash setup.sh
+
 
 # Navigate to the folder where app.py lives
 cd src/ui
